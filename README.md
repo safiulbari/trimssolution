@@ -22,40 +22,58 @@ https://trimssolutionbd.com
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/trims-solution.git
+
+```bash
+git clone https://github.com/yourusername/trims-solution.git
+```
 
 2. Navigate to the project directory:
-   cd trims-solution
+
+```bash
+cd trims-solution
+```
 
 3. Install dependencies:
-   npm install
 
-# or
-
-yarn install
+```bash
+npm install
+```
 
 ---
 
 ## Usage
 
 Start the development server:
+
+```bash
 npm start
+```
 
-# or
-
-yarn start
-
-Open http://localhost:3000 in your browser to view the website.
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
 
 Build for production:
+
+```bash
 npm run build
-
-# or
-
-yarn build
+```
 
 ---
 
 ## About the Company
 
 Trims Solution specializes in providing high-quality garments accessories. Our website showcases products, company information, and contact details, offering an easy and professional browsing experience for clients and partners.
+
+---
+
+## License
+
+This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to:
+
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+**Under the following terms:**
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+For more details, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
