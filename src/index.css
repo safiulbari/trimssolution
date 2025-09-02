@@ -1,1 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Vend+Sans:ital,wght@0,300..700;1,300..700&display=swap");
 @import "tailwindcss";
+
+@theme {
+  --font-sans: "Vend Sans", "ui-sans-serif", "system-ui";
+}
+
+/* Global font defaults */
+html {
+  @apply font-sans;
+}
